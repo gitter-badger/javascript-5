@@ -1,0 +1,24 @@
+{
+  "name": "dubtrack-api",
+  "version": "0.1.0-dev",
+  "description": "Dubtrack api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/zenekron/dubtrack-api.git"
+  },
+  "keywords": [
+    "dub",
+    "dubtrack",
+    "api"
+  ],
+  "author": "zenekron <zenekron@gmail.com> (https://zenekron.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/zenekron/dubtrack-api/issues"
+  },
+  "homepage": "https://gitlab.com/zenekron/dubtrack-api#README"
+}
